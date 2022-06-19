@@ -1,0 +1,15 @@
+C:\Users\train5\source\repos\WebApplication2\Library\bin\Debug\net5.0\Library.deps.json
+C:\Users\train5\source\repos\WebApplication2\Library\bin\Debug\net5.0\Library.runtimeconfig.json
+C:\Users\train5\source\repos\WebApplication2\Library\bin\Debug\net5.0\Library.runtimeconfig.dev.json
+C:\Users\train5\source\repos\WebApplication2\Library\bin\Debug\net5.0\Library.dll
+C:\Users\train5\source\repos\WebApplication2\Library\bin\Debug\net5.0\Library.pdb
+C:\Users\train5\source\repos\WebApplication2\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+C:\Users\train5\source\repos\WebApplication2\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\train5\source\repos\WebApplication2\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\train5\source\repos\WebApplication2\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\train5\source\repos\WebApplication2\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\train5\source\repos\WebApplication2\Library\obj\Debug\net5.0\Library.dll
+C:\Users\train5\source\repos\WebApplication2\Library\obj\Debug\net5.0\refint\Library.dll
+C:\Users\train5\source\repos\WebApplication2\Library\obj\Debug\net5.0\Library.pdb
+C:\Users\train5\source\repos\WebApplication2\Library\obj\Debug\net5.0\Library.genruntimeconfig.cache
+C:\Users\train5\source\repos\WebApplication2\Library\obj\Debug\net5.0\ref\Library.dll
