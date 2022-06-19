@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\train5\\source\\repos\\WebApplication2\\Library\\Library.csproj": {}
+    "E:\\anacoda\\Web API\\WebApplication2\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\train5\\source\\repos\\WebApplication2\\Library\\Library.csproj": {
+    "E:\\anacoda\\Web API\\WebApplication2\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\train5\\source\\repos\\WebApplication2\\Library\\Library.csproj",
+        "projectUniqueName": "E:\\anacoda\\Web API\\WebApplication2\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\train5\\source\\repos\\WebApplication2\\Library\\Library.csproj",
-        "packagesPath": "C:\\Users\\train5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\train5\\source\\repos\\WebApplication2\\Library\\obj\\",
+        "projectPath": "E:\\anacoda\\Web API\\WebApplication2\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\E480\\.nuget\\packages\\",
+        "outputPath": "E:\\anacoda\\Web API\\WebApplication2\\Library\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\train5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\E480\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
